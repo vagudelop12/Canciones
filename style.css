@@ -1,0 +1,20 @@
+.titulo1{
+    background-color: rgb(117, 89, 192);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    
+}
+.titulo2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;  
+}
+button{
+    background-color: indigo;
+    color: darkgray;
+}
